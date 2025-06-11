@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">About Me:<br>I’m a data engineer who turns chaotic data jungles into smooth highways for insights to cruise on.</h6>
+<h4 align="center">About Me:<br>I’m a data engineer who turns chaotic data jungles into smooth highways for insights to cruise on.</h4>
 
 ###
 
